@@ -1,13 +1,13 @@
 # HorizonTechX_Sentiment-Analysis
-# 😊 Sentiment Analysis using Machine Learning
+# Sentiment Analysis using Machine Learning
 
 A Natural Language Processing (NLP) project that predicts whether a given text expresses a positive or negative sentiment using Machine Learning techniques.
 
-## 🚀 Project Overview
+## Project Overview
 
 Understanding customer opinions from reviews, comments, and social media posts is an important business problem. This project uses NLP preprocessing and machine learning to automatically classify text sentiments.
 
-## ✨ Key Features
+## Key Features
 
 ✔ Text preprocessing and cleaning
 
@@ -19,7 +19,7 @@ Understanding customer opinions from reviews, comments, and social media posts i
 
 ✔ Real-time custom text prediction
 
-## 🧠 Machine Learning Pipeline
+## Machine Learning Pipeline
 
 Raw Text
 ↓
@@ -33,7 +33,7 @@ Model Training
 ↓
 Sentiment Prediction
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Pandas
@@ -42,23 +42,23 @@ Sentiment Prediction
 - Scikit-Learn
 - Matplotlib
 
-## 📈 Results
+## Results
 
 The trained model successfully classifies user reviews into sentiment categories and can be used as a foundation for customer feedback analysis systems.
 
-## 📂 Repository Structure
+## Repository Structure
 
 ├── Sentiment Analysis.ipynb
 ├── dataset.csv
 ├── README.md
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 - Deep Learning Models (LSTM/BERT)
 - Web Application using Streamlit
 - Multi-class Sentiment Analysis
 - Real-time Social Media Analysis
 
-## 👩‍💻 Author
+## Author
 
 Anusha Sommula
